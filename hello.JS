@@ -1,0 +1,1 @@
+console.log("halo saya dari kelas X RPL 6");
